@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | วันเวลา | เสาร์ที่ 12 ธันวาคม 2026, 13:00–17:00 (เวลาไทย GMT+7) |
-| สถานที่ | Bluebelt Dojo, Bangkok (ประกาศสถานที่เร็ว ๆ นี้) |
+| สถานที่ | OpenCraft Craft Beer Bar — 17/8 Pracha Rat Sai 2 Rd, Bang Sue, Bangkok 10800 (MRT Bang Pho ทางออก 2B) · [แผนที่](https://maps.app.goo.gl/qAMxhHYJAPfVVaus6) |
 | รูปแบบ | Onsite, hands-on 4 ชั่วโมง |
 | ที่นั่ง | จำกัดเพียง 20 ที่นั่ง |
 | ราคา | 1,490 บาท ต่อคน (ชำระครั้งเดียว) |
